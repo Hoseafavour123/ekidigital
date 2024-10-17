@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib":["dom", "es6"],
+    "allowJs": false,
+    "esModuleInterop": true,
+    "moduleResolution":"NodeNext",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "types": ["vite/client", "node"]
+  },
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.spec.json"
+    }
+  ],
+  "extends": "../../../tsconfig.base.json"
+}

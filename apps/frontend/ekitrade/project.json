@@ -1,0 +1,9 @@
+{
+  "name": "ekitrade",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/frontend/ekitrade/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project ekitrade --web",
+  "targets": {}
+}
